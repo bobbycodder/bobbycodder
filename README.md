@@ -1,7 +1,12 @@
+<img align="top"  width="1000" height="225" src="https://i.pinimg.com/originals/43/40/df/4340df745556fa225d9106d7b65d30c8.jpg">
+
+
 <h1 align="center">Hi 👋, I'm Divyansh Modi</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Data scientist student✌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbycodder&label=Profile%20views&color=0e75b6&style=flat" alt="bobbycodder" /> </p>
+
+<img align="right" alt="Coding" width="500" src="https://www.datapine.com/images/interactive-dashboard.png">
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -9,11 +14,13 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bobbycodder?tab=repositories](https://github.com/bobbycodder?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github/bobbycodder](https://github.com/bobbycodder?tab=repositories)
 
 - 📫 How to reach me **pawanmodikct81@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny**
+- - Connect with me on LinkedIn 🤝: [Divyansh Modi](https://www.linkedin.com/in/divyansh-modi『ディビアンシュ-モデ』-0830641ab)
+
+- ⚡ Fun fact **curious for data!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
