@@ -1,4 +1,4 @@
-<img align="top"  width="1000" height="225" src="https://i.pinimg.com/originals/43/40/df/4340df745556fa225d9106d7b65d30c8.jpg">
+<img align="top"  width="1100" height="400" src="https://miro.medium.com/fit/c/140/140/1*LtjX9ze971QwTHa7GKO3pA.gif">
 
 
 <h1 align="center">Hi 👋, I'm Divyansh Modi</h1>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbycodder&label=Profile%20views&color=0e75b6&style=flat" alt="bobbycodder" /> </p>
 
-<img align="right" alt="Coding" width="500" src="https://www.datapine.com/images/interactive-dashboard.png">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/5d/a0/4f/5da04f8387ab1bea3f9f11296902c6d2.gif">
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
