@@ -8,6 +8,8 @@
 
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/5d/a0/4f/5da04f8387ab1bea3f9f11296902c6d2.gif">
 
+<img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 - 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Data science,ML,AI**
