@@ -1,5 +1,5 @@
 <img align="top"  width="1100" height="400" src="https://miro.medium.com/fit/c/140/140/1*LtjX9ze971QwTHa7GKO3pA.gif">
-..
+.. 
 
 <h1 align="center">Hi 👋, I'm Divyansh Modi</h1>
 <h3 align="center">A passionate Data scientist student✌</h3>
