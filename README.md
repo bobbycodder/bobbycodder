@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbycodder&label=Profile%20views&color=0e75b6&style=flat" alt="bobbycodder" /> </p>
 
-<img align="right" alt="Coding" width="500" src="[https://i.gifer.com/Ou1t.gif](https://miro.medium.com/max/1400/1*fTPhu7PqgIbnngbWG5zFWA.gif)">
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/max/1400/1*fTPhu7PqgIbnngbWG5zFWA.gif">
 
 <img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
